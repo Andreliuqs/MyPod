@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # lqBaseLib
 
 [![CI Status](https://img.shields.io/travis/1635309049@qq.com/lqBaseLib.svg?style=flat)](https://travis-ci.org/1635309049@qq.com/lqBaseLib)
@@ -27,3 +28,7 @@ pod 'lqBaseLib'
 ## License
 
 lqBaseLib is available under the MIT license. See the LICENSE file for more info.
+=======
+# MyPod
+这是一个私人的库
+>>>>>>> f223209ce46428de3f7e20ed4eb4a9457b2ffd60
