@@ -7,6 +7,7 @@
 //
 
 #import "LQSViewController.h"
+#import "LqModel.h"
 
 @interface LQSViewController ()
 
@@ -17,6 +18,9 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    
+    LqModel *model = [[LqModel alloc] init];
+    [model run];
 	// Do any additional setup after loading the view, typically from a nib.
 }
 

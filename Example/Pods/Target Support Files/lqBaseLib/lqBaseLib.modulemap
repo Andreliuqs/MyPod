@@ -1,0 +1,6 @@
+framework module lqBaseLib {
+  umbrella header "lqBaseLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
