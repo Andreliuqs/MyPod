@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'lqBaseLib_Example' do
+  pod 'lqBaseLib', :path => '../'
+
+  target 'lqBaseLib_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
