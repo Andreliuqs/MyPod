@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'lqBaseLib'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A short description of lqBaseLib.'
 
 # This description is used to generate tags and improve search results.
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/1635309049@qq.com/lqBaseLib'
+  s.homepage         = 'https://github.com/Andreliuqs/MyPod'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '1635309049@qq.com' => '1635309049@qq.com' }
